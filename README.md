@@ -9,4 +9,4 @@ In case the module notebooks aren't loading on your browser due to large file si
 
 3. [Module 5 nbviewer link](https://nbviewer.jupyter.org/github/phreakyphoenix/MXNet-GluonCV-AWS-Coursera/blob/master/Module_5_LeNet_on_MNIST.ipynb) 
 
-4. [Module 6 nbviewer link](https://nbviewer.jupyter.org/github/phreakyphoenix/MXNet-GluonCV-AWS-Coursera/blob/master/Module_6_Count_Multiple_Objects.ipynb)
+4. [Module 6 nbviewer link](https://nbviewer.jupyter.org/github/phreakyphoenix/MXNet-GluonCV-AWS-Coursera/blob/master/Module_6_Count_Objects.ipynb)
