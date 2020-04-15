@@ -13,6 +13,8 @@ In case the module notebooks aren't loading on your browser due to large file si
 
 4. **Module 6**: [NBviewer link](https://nbviewer.jupyter.org/github/phreakyphoenix/MXNet-GluonCV-AWS-Coursera/blob/master/Module_6_Count_Objects.ipynb) and [Colab link](https://colab.research.google.com/drive/1kvv97mF3ynUzNvvZOkR6ubZIC4dMitWs)
 
+*You don't need to request access for any Colab link, just press **Open in Playgroung mode** from the top-left to run it.*
+
 In all these notebooks, I've not modified the code required to pass the assignmnets, but added my touches as extra functions at the end of the notebook. Some of the added functionality includes:
 1. Testing on multiple images 
 2. Testing on images uploaded from User. 
