@@ -16,4 +16,4 @@ In all these notebooks, I've not modified the code required to pass the assignmn
 2. Testing on images uploaded from User. 
 3. Improved and more accurate visualization based on object detection threshold.
 
-I'd love to merge PRs if you discover any of the content stops working in future or if you have a better idea on how to improve this repo, maybe through tutorials and labs :star2:
+I'd love to merge PRs if you discover any of the content stops working in future or if you have a better idea on how to improve this repo, maybe through tutorials and labs :fire:
