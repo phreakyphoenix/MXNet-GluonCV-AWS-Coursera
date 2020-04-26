@@ -15,7 +15,7 @@ In case the module notebooks aren't loading on your browser due to large file si
 
 *You don't need to request access for any Colab link, just press **Open in Playgroung mode** from the top-left to run it.*
 
-In all these notebooks, I've not modified the code required to pass the assignmnets, but added my touches as extra functions at the end of the notebook. Some of the added functionality includes:
+In all these notebooks, I've not modified the code required to pass the assignmnets, but I've added separate ways to load the data and some personal touches as extra functions at the end of the notebook. Some of the added functionality includes:
 1. Testing on multiple images 
 2. Testing on images uploaded from User. 
 3. Improved and more accurate visualization based on object detection threshold.
