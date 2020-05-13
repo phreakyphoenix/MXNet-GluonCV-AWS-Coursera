@@ -3,9 +3,9 @@ This repo will include some of my solutions to the Coursera course offered by AW
 
 ### Warning
 
-*This is not a solution notebook, so copying the files and submiting won't work and is against Coursera's Honor Code.
+*This is not a solution notebook, so copying the files and submiting won't work and is against Coursera's Honor Code.*
 
-Please DO NOT:*
+*Please DO NOT:*
 
 *a. Email me error messages,* 
 
